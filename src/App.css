@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.Features {
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.Features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Features li {
+  margin: 10px 0;
+}
