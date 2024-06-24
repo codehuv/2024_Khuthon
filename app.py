@@ -13,7 +13,7 @@ current_date = datetime.now().date()
 current_date = str(current_date).replace('-', '')
 
 # MongoDB 클라이언트 초기화
-uri = "mongodb+srv://lgs2927:lgs2927@cluster0.opn7gy2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = ""
 client = MongoClient(uri)
 keywd = ""
 keyweek = ""
